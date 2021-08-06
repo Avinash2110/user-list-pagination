@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/user-list-pagination/static/css/main.6afc6a6b.chunk.css",
+    "main.js": "/user-list-pagination/static/js/main.2c9c3ef2.chunk.js",
+    "main.js.map": "/user-list-pagination/static/js/main.2c9c3ef2.chunk.js.map",
+    "runtime-main.js": "/user-list-pagination/static/js/runtime-main.aa26e217.js",
+    "runtime-main.js.map": "/user-list-pagination/static/js/runtime-main.aa26e217.js.map",
+    "static/js/2.362c1af1.chunk.js": "/user-list-pagination/static/js/2.362c1af1.chunk.js",
+    "static/js/2.362c1af1.chunk.js.map": "/user-list-pagination/static/js/2.362c1af1.chunk.js.map",
+    "index.html": "/user-list-pagination/index.html",
+    "static/css/main.6afc6a6b.chunk.css.map": "/user-list-pagination/static/css/main.6afc6a6b.chunk.css.map",
+    "static/js/2.362c1af1.chunk.js.LICENSE.txt": "/user-list-pagination/static/js/2.362c1af1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa26e217.js",
+    "static/js/2.362c1af1.chunk.js",
+    "static/css/main.6afc6a6b.chunk.css",
+    "static/js/main.2c9c3ef2.chunk.js"
+  ]
+}
